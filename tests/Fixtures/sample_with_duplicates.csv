@@ -1,0 +1,7 @@
+Product Name,Product Description,Product Code,Cost in GBP,Stock,Discontinued,dtmAdded
+TV,High resolution television,P0010,350.5,15,no,01/01/2023
+Cd Player,Portable CD Player,P0011,40,20,no,01/02/2023
+VCR,Old school VCR,P0012,950,5,no,01/03/2023
+Bluray Player,Excellent picture,P0013,60,30,no,01/04/2023
+XBOX360,Video game console,P0099,199.99,25,no,01/05/2023
+Duplicate Bluray,Another Bluray Player,P0013,70,10,no,01/07/2023
