@@ -1,0 +1,7 @@
+Product Name,Product Description,Product Code,Cost in GBP,Stock,Discontinued,dtmAdded
+TV,High resolution television,P0010,350.50,15,no,2023-01-01
+Cd Player,Portable CD Player,missing column,P0011,40.00,20,no
+VCR,Old school VCR,P0012,950.00,5,no,2023-03-01
+Bluray Player,Excellent picture,P0013,60.00,30,no,2023-04-01
+This row,has too many,columns,P0014,100,extra value,no,2023-05-01
+PS3,PlayStation 3,P0015,299.99,10,no,2023-06-01
